@@ -1,0 +1,23 @@
+body{
+    background-color: bisque;
+}
+
+hr{
+    color:black;
+}
+
+#dl1{
+    border:2px solid;
+    padding:10px;
+}
+
+#gayButton{
+    font-size:25px;
+    background-color: lightpink;
+    color:darkslateblue;
+    border-radius: 20px;
+}
+
+.gay{
+    background-color: cadetblue;
+}
